@@ -6,7 +6,7 @@ Welcome to the **Tic Tac Toe** game — a timeless 3x3 board game built using **
 
 ## 🌐 Live Demo
 
-🔗 **Play it Live**: [Click here to play the game]()  
+🔗 **Play it Live**: [Click here to play the game](https://umramirza.github.io/Tic-Tac-Toe-Game/)  
 
 ---
 
@@ -62,12 +62,12 @@ The goal of this project is to:
 ## 🗂️ Folder Structure
 
 TicTacToe/
-│
+
 ├── index.html # Main HTML file
 
 ├── style.css # CSS styling for layout and design
 
-├── script.js # JavaScript logic (event handling, win check)
+├── app.js # JavaScript logic (event handling, win check)
 
 └── screenshot.png #  Game preview image
 
