@@ -6,9 +6,8 @@ Welcome to the **Tic Tac Toe** game — a timeless 3x3 board game built using **
 
 ## 🌐 Live Demo
 
-🔗 **Play it Live**: 
+🔗 **Play it Live**: [Click here to play the game](https://umramirza.github.io/Tic-Tac-Toe-Game/)  
 
-[Click here to play the game](https://umramirza.github.io/Tic-Tac-Toe-Game/)  
 ---
 
 ## 📸 Game Preview
