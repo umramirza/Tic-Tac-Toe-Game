@@ -61,7 +61,8 @@ The goal of this project is to:
 
 ## 🗂️ Folder Structure
 
-TicTacToe/
+TicTacToe
+
 
 ├── index.html # Main HTML file
 
